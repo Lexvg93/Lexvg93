@@ -5,7 +5,8 @@
 ###
 - 👋 Hola,Soy @Lexvg93 (nombre en Programacion)
 - 👀 Estoy interesado en distintas Tecnologias como Java,Js,Css,React,Angular
-- ![image](https://github.com/Lexvg93/Lexvg93/assets/99300316/e2da1b6e-7db5-4cd8-befe-bbbd85b7273e) Actualmente utilizo BBDD Mysql, MariaDb, MongoDb
+-  ![image](https://github.com/Lexvg93/Lexvg93/assets/99300316/215108be-5ff6-47d1-a20e-a55812a3bc20)
+Actualmente utilizo BBDD Mysql, MariaDb, MongoDb
 
 - 🌱 Actualmente estoy desarrollando proyectos personales con spring security,Angular y React
 - 💞️ Estoy interesado en colaborar con distintos proyectos de manera Remota 
