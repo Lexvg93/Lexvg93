@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lexvg93
+- 👋 Hi, I’m @Lexvg93 (name Developeer)
 - 👀 I’m interested in Java,Js,Css and Mysql
 - 🌱 I’m currently learning  Js vanilla
 - 💞️ I’m looking to collaborate on different projects 
