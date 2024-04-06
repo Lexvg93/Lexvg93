@@ -1,3 +1,8 @@
+###
+
+<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/projects/404/c5289a88744041.Y3JvcCw4MjAsNjQxLDY2NCw2MTU.jpg"  />
+
+###
 - 👋 Hi, I’m @Lexvg93 (name Developeer)
 - 👀 I’m interested in Java,Js,Css and Mysql
 - 🌱 I’m currently learning  Js vanilla
@@ -10,11 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-###
 
-<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/projects/404/c5289a88744041.Y3JvcCw4MjAsNjQxLDY2NCw2MTU.jpg"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
