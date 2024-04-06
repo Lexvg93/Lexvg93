@@ -5,7 +5,7 @@
 ###
 - 👋 Hi, I’m @Lexvg93 (name Developeer)
 - 👀 I’m interested in Java,Js,Css,React,Angular and Mysql
-- 🌱 I’m currently learning  Js vanilla
+- 🌱 Actualmente estoy desarrollando proyectos personales con spring security,Angular y React
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me  for email:  alejandroavg1993@gmail.com
 
