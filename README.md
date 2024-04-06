@@ -5,7 +5,7 @@
 ###
 - 👋 Hola,Soy @Lexvg93 (nombre en Programacion)
 - 👀 Estoy interesado en distintas Tecnologias como Java,Js,Css,React,Angular
--  Actualmente utilizo BBDD Mysql, MariaDb, MongoDb
+-  Actualmente utilizo BBDD Mysql, MariaDb, MongoDb, OracleBBDD
 - 🌱 Actualmente estoy desarrollando proyectos personales con spring security,Angular y React
 - 💞️ Estoy interesado en colaborar con distintos proyectos de manera Remota 
 - 📫 Correo de contacto:  alejandroavg1993@gmail.com
