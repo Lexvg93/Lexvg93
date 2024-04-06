@@ -3,10 +3,12 @@
 <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51ee2a37-799b-40e4-b347-daca69741999/d4f0yuu-4984ca89-9a3a-4895-9053-e1083b43f6a3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxZWUyYTM3LTc5OWItNDBlNC1iMzQ3LWRhY2E2OTc0MTk5OVwvZDRmMHl1dS00OTg0Y2E4OS05YTNhLTQ4OTUtOTA1My1lMTA4M2I0M2Y2YTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Fc1102zDYDawGRFuEGAGA2sXyMoQE-gqRIuuK5oxvhs"  />
 
 ###
-- 👋 Hi, I’m @Lexvg93 (name Developeer)
-- 👀 I’m interested in Java,Js,Css,React,Angular and Mysql
+- 👋 Hola,Soy @Lexvg93 (nombre en Programacion)
+- 👀 Estoy interesado en distintas Tecnologias como Java,Js,Css,React,Angular
+- ![image](https://github.com/Lexvg93/Lexvg93/assets/99300316/e2da1b6e-7db5-4cd8-befe-bbbd85b7273e) Actualmente utilizo BBDD Mysql, MariaDb, MongoDb
+
 - 🌱 Actualmente estoy desarrollando proyectos personales con spring security,Angular y React
-- 💞️ I’m looking to collaborate on different projects 
+- 💞️ Estoy interesado en colaborar con distintos proyectos de manera Remota 
 - 📫 How to reach me  for email:  alejandroavg1993@gmail.com
 
 <!---
