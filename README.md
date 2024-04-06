@@ -8,7 +8,7 @@
 -  Actualmente utilizo BBDD Mysql, MariaDb, MongoDb
 - 🌱 Actualmente estoy desarrollando proyectos personales con spring security,Angular y React
 - 💞️ Estoy interesado en colaborar con distintos proyectos de manera Remota 
-- 📫 How to reach me  for email:  alejandroavg1993@gmail.com
+- 📫 Correo de contacto:  alejandroavg1993@gmail.com
 
 <!---
 Lexvg93/Lexvg93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
