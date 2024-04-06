@@ -8,7 +8,7 @@
 Lexvg93/Lexvg93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">Hola  👋! Mi nombre es Alejandro y soy apasionado de la programación</h2>
+
 
 ###
 
@@ -42,6 +42,4 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">Hello World!!</p>
 
-###
